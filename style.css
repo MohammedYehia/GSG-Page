@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #fff;
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+nav {
+    padding: 20px 0 40px 20px;
+    background: #534b97;   
+}
+
+section {
+    display: block;
+    padding: 20px 0 50px 0;
+}
+ul{
+    list-style: none;
+    margin-left: 6px;
+    width: 45%;
+    float: left;
+}
+ul li {
+    display: inline-block;
+    padding-left: 20px;
+    
+}
+
+ul li a {
+    text-decoration: none;    
+    color: #fff;
+}
+
+
+.about {
+        padding: 20px;
+}
+
+.about img{
+    height: 200px;
+    width: 200px;
+    border: 3px solid #1b4a91;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    margin: 30px 40px 0 0;    
+}
+
+.about p {
+    line-height: 32px;
+    border-radius: 32px;
+    padding: 14px;
+    margin: 0px;
+    background: #e3e9e9;
+    margin-left: 65px;
+    font-size: 120%;    
+}
+
+.about h1 {
+    margin: 20px;
+    font-family: 'Rammetto One', cursive;
+    
+}
+h2{
+    font-family: 'Rammetto One', cursive;
+    text-align: center;
+}
+h2:after {
+    display: block;
+    height: 2px;
+    background-color: #534b97;
+    content: " ";
+    width: 100px;
+    margin: 12px auto;
+}
+
+.protofolio{
+    padding-bottom: 144px;
+}
+
+.left-col .project img{
+    margin-left: 20px;
+} 
+
+.project img:hover{
+    opacity: 0.8;
+    
+}
+
+
+.left-col{
+    width: 45%;
+    float: left;
+}
+.right-col{
+    width: 45%;
+    float:right;
+    margin-right: 30px;
+}
+footer {
+    height: 1   00px;
+    display: block;
+    background: #534b97;
+}
+
+.icon-munue {
+    float: right;
+}
+
+.contact img {
+    margin: 0 35%;
+        display: block;
+}
+
+.social-icon {
+    padding: 40px 16px;
+    display: block;
+    margin: 0 35%;
+    font-size: 200%;   
+}
+
+.social-icon a i{
+    font-size: 188%;
+    margin-left: 36px;
+}
+
+.center {
+    text-align: center;
+}
+
+.love {
+    padding: 20px;
+
+}
+
+.love i {
+    color: red;
+}
+
+.email {
+    font-size: 120%;
+}
+
+.contact{
+    margin-top: 280px;
+}
