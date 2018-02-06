@@ -148,3 +148,24 @@ footer {
 .contact{
     margin-top: 280px;
 }
+
+/* Rseponsive   */
+/* big tablet to 1200px */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* small tablet to big tablet [from 768px to 1023 */
+@media only screen and (max-width : 1023px) {
+
+}
+
+/* small phone to small tablet [ from 481px to 767px] */
+@media only screen and (max-width : 767px) {
+
+}
+
+/* small phon screen [from 0 to 480px] */
+@media only screen and (max-width : 480px){
+
+}
